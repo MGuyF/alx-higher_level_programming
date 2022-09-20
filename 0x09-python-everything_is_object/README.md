@@ -102,4 +102,4 @@ julien@ubuntu:/python3$ cat int.py a = 1024 b = 1024 del a del b c = 1024 julien
 34. int 3/3
 julien@twix:/tmp/so$ cat int.py print("I") print("Love") print("Python") julien@ubuntu:/tmp/so$
 Author
-Klaus KIRA
+Klaus KIRA - klauskira07
