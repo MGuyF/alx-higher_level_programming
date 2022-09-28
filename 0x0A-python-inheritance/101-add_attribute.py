@@ -8,8 +8,3 @@ def add_attribute(obj, name, value):
         raise TypeError("can't add new attribute")
 
     setattr(obj, name, value)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Priva
